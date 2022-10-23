@@ -59,17 +59,14 @@ img {
   padding: 14px;
   border-radius: 5px;
 }
-
 .cartWrapper .cartCard img {
   width: 150px;
   height: 150px;
   display: inline-block;
 }
-
 .cartWrapper .cartCard button svg {
   margin: 5px;
 }
-
 .productsWrapper .cart img {
   width: 150px;
   height: 150px;
@@ -83,5 +80,8 @@ img {
 .productsWrapper .cart h4 {
   margin: 10px;
 }
-
-
+span.cart-items {
+  position: absolute;
+  top: 0px;
+  padding: 10px;
+}
