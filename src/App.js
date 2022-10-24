@@ -6,7 +6,6 @@ import Home from './Pages/Home';
 import Cart from './Pages/Cart';
 import Navbar from './Components/Navbar';
 import Login from './Components/Login';
-//import WithSubnavigation from './Components/WithSubnavigation';
 import Footer from './Components/Footer';
 
 function App() {
